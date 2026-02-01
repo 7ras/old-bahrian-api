@@ -7,7 +7,7 @@
         "description_ar": "ملك مملكة البحرين الحالي، تولى الحكم في عام 1999. قاد مشروع الإصلاح الوطني وأعلن البحرين مملكة في عام 2002.",
         "description_en": "The current King of Bahrain, who took office in 1999. He led the National Reform Project and declared Bahrain a Kingdom in 2002.",
         "notable_for": "National Action Charter, Reform, Governance",
-        "image_url": "/public/figures/king-hamad.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/King_Hamad_bin_Isa_Al_Khalifa_Official_Portrate.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "description_ar": "فاتح البحرين ومؤسس حكم آل خليفة فيها عام 1783. لُقب بـ 'الفاتح' بعد قيادته الناجحة لتأمين الجزر وتوحيدها.",
         "description_en": "The conqueror of Bahrain and the founder of the Al Khalifa rule in 1783. He was nicknamed 'The Conqueror' after his successful leadership in securing and unifying the islands.",
         "notable_for": "Conquest of Bahrain, Foundation of the State",
-        "image_url": "/public/figures/ahmed-al-fateh.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ahmed_ibn_Muhammad_ibn_Khalifa.jpg/800px-Ahmed_ibn_Muhammad_ibn_Khalifa.jpg"
     },
     {
         "id": 3,
@@ -107,7 +107,7 @@
         "description_ar": "فنان ومطرب بحريني شهير، عُرف بلقب 'سفير الأغنية البحرينية'. أسس فرقة الإخوة البحرينية وحظي بشعبية جارفة في الخليج والوطن العربي.",
         "description_en": "A famous Bahraini artist and singer, known as the 'Ambassador of Bahraini Song'. He founded the 'Al-Ekhwa' (The Brothers) band and enjoyed immense popularity in the Gulf and Arab world.",
         "notable_for": "Music, Rock & Reggae in the Gulf",
-        "image_url": "/public/figures/ali-bahar.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ali_Bahar.jpg"
     },
     {
         "id": 12,
@@ -157,7 +157,7 @@
         "description_ar": "أمير دولة البحرين من عام 1961 حتى وفاته في عام 1999. في عهده استقلت البحرين عن بريطانيا عام 1971 وتحولت إلى دولة حديثة.",
         "description_en": "Emir of Bahrain from 1961 until his death in 1999. During his reign, Bahrain gained independence from Britain in 1971 and transformed into a modern state.",
         "notable_for": "Independence, Modernization, Leadership",
-        "image_url": "/public/figures/isa-bin-salman.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sheikh_Isa_bin_Salman_Al_Khalifa.jpg"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "description_ar": "ولي العهد ورئيس مجلس الوزراء بمملكة البحرين. يقود الجهود التنموية والاقتصادية وبرز دوره الاستراتيجي في فريق البحرين.",
         "description_en": "The Crown Prince and Prime Minister of Bahrain. He leads developmental and economic efforts and is known for his strategic role in 'Team Bahrain'.",
         "notable_for": "Economic Reform, Team Bahrain, Leadership",
-        "image_url": "/public/figures/crown-prince-salman.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Prince_Salman_bin_Hamad_bin_Isa_Al_Khalifa_%28cropped%29.jpg"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "description_ar": "رئيس وزراء البحرين السابق (1970-2020)، ويُعتبر أطول رئيس وزراء خدمة في العالم. ساهم بشكل جوهري في بناء الدولة الحديثة.",
         "description_en": "The former Prime Minister of Bahrain (1970-2020), considered the world's longest-serving Prime Minister. He played a fundamental role in building the modern state.",
         "notable_for": "State Building, Longest Service, Administration",
-        "image_url": "/public/figures/khalifa-bin-salman.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Khalifa_ibn_Salman_Al_Khalifa.jpg"
     },
     {
         "id": 19,
@@ -357,7 +357,7 @@
         "description_ar": "عداءة بحرينية أولمبية، أحرزت أول ميدالية ذهبية أولمبية للبحرين في تاريخها خلال أولمبياد لندن 2012 في سباق 1500 متر.",
         "description_en": "An Olympic Bahraini runner, she won Bahrain's first-ever Olympic gold medal in the 1500m at the London 2012 Olympics.",
         "notable_for": "Olympic Gold Medal, Athletics, World Records",
-        "image_url": "/public/figures/maryam-jamal.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Maryam_Yusuf_Jamal-b.jpg"
     },
     {
         "id": 37,
@@ -457,7 +457,7 @@
         "description_ar": "أحد أشهر الفنانين في الوطن العربي، ولد لأب سعودي وأم بحرينية ونشأ في البحرين، ويُعتبر سفيراً للأغنية الخليجية.",
         "description_en": "One of the most famous artists in the Arab world, born to a Saudi father and a Bahraini mother and raised in Bahrain. He is considered an ambassador of Gulf songs.",
         "notable_for": "Arab Music, Gulf Singing, Record Sales",
-        "image_url": "/public/figures/rashed-al-majed.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Rashed_Al-Majed.jpg"
     },
     {
         "id": 47,
@@ -467,7 +467,7 @@
         "description_ar": "فنانة إماراتية ولدت في البحرين لأم بحرينية، وتعتز دائماً بارتباطها الوثيق بالمملكة وبداياتها الفنية في المحرق.",
         "description_en": "An Emirati artist born in Bahrain to a Bahraini mother, she always takes pride in her close ties to the Kingdom and her artistic beginnings in Muharraq.",
         "notable_for": "Arab Pop Music, Vocal Prowess",
-        "image_url": "/public/figures/ahlam.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%D8%A3%D8%AD%D9%84%D8%A7%D9%85.jpg"
     },
     {
         "id": 48,

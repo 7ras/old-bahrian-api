@@ -34,7 +34,7 @@ This API is designed for developers, researchers, and creators who want to build
 | `/api/family.json` | 100+ Bahraini families & tribes. | أكثر من 100 عائلة وقبيلة بحرينية. |
 | `/api/mosques.json` | Historical and prominent mosques. | المساجد التاريخية والبارزة. |
 | `/api/matams.json` | Historical community houses. | المآتم التاريخية. |
-| `/api/figures.json` | Prominent religious & political figures. | أبرز الشخصيات الدينية والسياسية. |
+| `/api/figures.json` | public figures. | الشخصيات العامة. |
 
 ---
 
