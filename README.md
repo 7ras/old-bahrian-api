@@ -54,8 +54,9 @@ fetch('https://7ras.github.io/bahrain-api/api/family.json')
 
 ## 🤝 Contribution | المساهمة
 
-We welcome contributions! Whether it's correcting data, adding new families, or providing high-resolution historical photos.
-نرحب بمساهماتكم! سواء بتصحيح البيانات، إضافة عائلات جديدة، أو توفير صور تاريخية عالية الجودة.
+We welcome contributions! Whether it's correcting data, adding new families, or providing high-resolution historical photos. Please refer to our [Data Templates](DATA_TEMPLATES.md) for more information on how to format your contributions.
+
+نرحب بمساهماتكم! سواء بتصحيح البيانات، إضافة عائلات جديدة، أو توفير صور تاريخية عالية الجودة. يرجى مراجعة [نماذج البيانات](DATA_TEMPLATES.md) لمعرفة كيفية هيكلة مساهماتك.
 
 1. **Fork** the repository.
 2. **Add/Edit** JSON files in the `api/` folder.
