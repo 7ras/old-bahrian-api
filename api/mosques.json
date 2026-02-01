@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name_ar": "مسجد الخميس",
+        "name_en": "Khamis Mosque",
+        "type": "Mosque",
+        "category": "Historical Landmark",
+        "location": {
+            "lat": 26.2082,
+            "lng": 50.5482
+        },
+        "description_ar": "يُعتبر أول مسجد بني في البحرين، وتعود أساساته إلى القرن الأول الهجري (عهد الخليفة عمر بن عبد العزيز). يشتهر بمآذنه التوأم وتصميمه الإسلامي العريق.",
+        "description_en": "Believed to be the first mosque in Bahrain, with foundations dating back to the 1st century AH (era of Caliph Umar II). Famous for its twin minarets and ancient Islamic design.",
+        "history": "Built around 692 AD and reconstructed in the 14th and 15th centuries.",
+        "images": [
+            "/public/mosques/khamis_mosque_1.jpg",
+            "/public/mosques/khamis_mosque_2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name_ar": "جامع الفاتح (مركز أحمد الفاتح الإسلامي)",
+        "name_en": "Al Fateh Grand Mosque",
+        "type": "Mosque",
+        "category": "Religious Landmark",
+        "location": {
+            "lat": 26.2186,
+            "lng": 50.5983
+        },
+        "description_ar": "أكبر مسجد في البحرين وأحد أكبر المساجد في العالم. يتميز بقبته الضخمة المصنوعة من الألياف الزجاجية وتصميمه المعماري الحديث والفاخر.",
+        "description_en": "The largest mosque in Bahrain and one of the biggest in the world. Known for its massive fiberglass dome and its luxurious modern architectural design.",
+        "history": "Constructed in 1987 by the late Sheikh Isa bin Salman Al Khalifa.",
+        "images": [
+            "/public/mosques/alfateh_mosque.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name_ar": "مسجد سيادي",
+        "name_en": "Siyadi Mosque",
+        "type": "Mosque",
+        "category": "UNESCO Heritage Site",
+        "location": {
+            "lat": 26.2561,
+            "lng": 50.6094
+        },
+        "description_ar": "جزء من مجمع بيت سيادي في المحرق، وهو أقدم مسجد محفوظ في مدينة المحرق. يعود تاريخ بنائه إلى القرن التاسع عشر.",
+        "description_en": "Part of the Siyadi House complex in Muharraq, it is the oldest preserved mosque in Muharraq city, dating back to the 19th century.",
+        "history": "Built in 1865 and revised in 1910, part of the Bahrain Pearling Path.",
+        "images": [
+            "/public/mosques/siyadi_mosque.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name_ar": "مسجد ومقام السيد هاشم التوبلاني",
+        "name_en": "Sayyid Hashim al-Tublani Mosque",
+        "type": "Mosque",
+        "category": "Religious & Historical Site",
+        "location": {
+            "lat": 26.1920,
+            "lng": 50.5600
+        },
+        "description_ar": "يضم ضريح العالم الجليل السيد هاشم التوبلاني (العلامة البحراني). يُعد من أهم المزارات الدينية في قرية توبلي.",
+        "description_en": "Houses the shrine of the great scholar Sayyid Hashim al-Bahrani. It is one of the most important religious sites in Tubli village.",
+        "history": "Dates back to the 12th century, named after the prominent Shi'ite scholar.",
+        "images": [
+            "/public/mosques/sayyid_hashim_mosque.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name_ar": "مسجد النبيه صالح",
+        "name_en": "Nabih Saleh Mosque",
+        "type": "Mosque",
+        "category": "Historical Island Landmark",
+        "location": {
+            "lat": 26.1842,
+            "lng": 50.5856
+        },
+        "description_ar": "يقع في جزيرة النبيه صالح، ويضم ضريح العبد الصالح 'صالح'. يُعتبر المسجد والجزيرة من المواقع التاريخية الهادئة والمباركة.",
+        "description_en": "Located on Nabih Saleh Island, it houses the shrine of the pious servant 'Saleh'. The mosque and the island are considered serene and blessed historical sites.",
+        "history": "Named after a 14th-century ascetic who lived on the island.",
+        "images": [
+            "/public/mosques/nabih_saleh_mosque.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name_ar": "مسجد ومقام صعصعة بن صوحان",
+        "name_en": "Mausoleum of Sa'sa'a ibn Sawhan",
+        "type": "Mosque/Shrine",
+        "category": "Ancient Historical Site",
+        "location": {
+            "lat": 26.0567,
+            "lng": 50.6183
+        },
+        "description_ar": "يقع في منطقة عسكر، ويُنسب إلى صعصعة بن صوحان العبدي، أحد صحابة الإمام علي بن أبي طالب. يُعد من أقدم المواقع التاريخية في البحرين.",
+        "description_en": "Located in Askar, attributed to Sa'sa'a ibn Sawhan al-Abdi, a companion of Imam Ali. It is one of the oldest historical sites in Bahrain.",
+        "history": "Site dates back to the 7th-8th century CE.",
+        "images": [
+            "/public/mosques/sasaa_shrine.jpg"
+        ]
+    }
+]

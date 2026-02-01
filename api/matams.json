@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name_ar": "مأتم العجم الكبير",
+        "name_en": "Matam Al-Ajam Al-Kabeer",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2340,
+            "lng": 50.5760
+        },
+        "description_ar": "أقدم وأكبر مأتم للعجم في البحرين، يقع في منطقة فريج المخارقة بالمنامة. يتميز بعمارته الأصفهانية والزخارف الإسلامية الرائعة.",
+        "description_en": "The oldest and largest Persian Matam in Bahrain, located in Fareej el-Makharqa, Manama. It features Isfahan architecture and stunning Islamic decorations.",
+        "history": "Foundations laid in 1882, formally established in 1904.",
+        "images": [
+            "/public/matams/matam_ajam_1.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name_ar": "مأتم بن رجب",
+        "name_en": "Matam Bin Rajab",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2325,
+            "lng": 50.5794
+        },
+        "description_ar": "يُعد أول مأتم تم تأسيسه في مدينة المنامة، ويقع في فريج الحطب. له دور تاريخي واجتماعي بارز منذ أكثر من قرن.",
+        "description_en": "Regarded as the first Matam established in Manama city, located in Fareeq el-Hatab. It has played a prominent historical and social role for over a century.",
+        "history": "Constructed around the turn of the 19th century.",
+        "images": [
+            "/public/matams/matam_bin_rajab.jpg"
+        ]
+    }
+]

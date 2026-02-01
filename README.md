@@ -22,6 +22,8 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
 | **Currencies** | `/api/currencies.json` | Old currencies used in Bahrain. | العملات القديمة المستخدمة في البحرين. |
 | **Photos** | `/api/historical_photos.json` | Archive of general historical photos. | أرشيف الصور التاريخية العامة. |
 | **Car Plates** | `/api/car_plates.json` | Historical car license plates. | لوحات السيارات التاريخية. |
+| **Mosques** | `/api/mosques.json` | Historical mosques in Bahrain. | المساجد التاريخية. |
+| **Matams** | `/api/matams.json` | Historical community houses (Matams). | المآتم التاريخية. |
 
 ---
 
@@ -70,6 +72,34 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
   "colors": {
     "background": "White",
     "text": "Blue"
+  }
+}
+```
+
+### 🕌 Mosques (المساجد)
+```json
+{
+  "id": 1,
+  "name_ar": "مسجد الخميس",
+  "name_en": "Khamis Mosque",
+  "type": "Mosque",
+  "location": {
+    "lat": 26.2082,
+    "lng": 50.5482
+  }
+}
+```
+
+### 🏟️ Matams (المآتم)
+```json
+{
+  "id": 1,
+  "name_ar": "مأتم العجم الكبير",
+  "name_en": "Matam Al-Ajam Al-Kabeer",
+  "type": "Matam",
+  "location": {
+    "lat": 26.2340,
+    "lng": 50.5760
   }
 }
 ```
