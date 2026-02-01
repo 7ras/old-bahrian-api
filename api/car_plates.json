@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name_ar": "لوحة الخمسينيات والستينيات",
+        "name_en": "1950s-1960s Plate",
+        "era": "British Protectorate Era",
+        "type": "Private",
+        "colors": {
+            "background": "Black",
+            "text": "White"
+        },
+        "description_ar": "لوحة تميزت بأرقام قليلة (3 إلى 4 أرقام) مع كتابة 'بحرين' باللغة العربية والإنجليزية، وكانت تصنع من المعدن المطلي.",
+        "description_en": "Featured a small number of digits (3 to 4) with 'BAHRAIN' written in both Arabic and English, made of painted metal.",
+        "images": {
+            "sample": "/public/plates/old_black_plate.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name_ar": "لوحة السبعينيات والثمانينيات",
+        "name_en": "1970s-1980s Plate",
+        "era": "Post-Independence",
+        "type": "Private",
+        "colors": {
+            "background": "White",
+            "text": "Blue/Black"
+        },
+        "description_ar": "بدأ استخدام اللوحات ذات الـ 5 أرقام، وتميزت بتصميم بسيط يركز على الرقم وكلمة البحرين.",
+        "description_en": "Introduction of 5-digit plates with a simple design focusing on the number and the word BAHRAIN.",
+        "images": {
+            "sample": "/public/plates/1970s_plate.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name_ar": "إصدار عام 1993",
+        "name_en": "1993 Series",
+        "era": "Modern Era (Classic Style)",
+        "type": "Private",
+        "colors": {
+            "background": "White",
+            "text": "Blue"
+        },
+        "description_ar": "التصميم الشهير الذي استمر حتى عام 2010، يتميز بكلمة BAHRAIN في الأعلى باللون الأبيض على خلفية زرقاء، وتكرار الرقم بالعربية والإنجليزية.",
+        "description_en": "The iconic design used until 2010, featuring the word BAHRAIN at the top in white on a blue background, with numbers repeated in Arabic and Western scripts.",
+        "images": {
+            "sample": "/public/plates/1993_series.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name_ar": "لوحة التصدير (تصدير البحرين)",
+        "name_en": "Export Plate",
+        "era": "Multiple Eras",
+        "type": "Export",
+        "colors": {
+            "background": "Red",
+            "text": "White"
+        },
+        "description_ar": "لوحات مخصصة للمركبات التي يتم تصديرها خارج المملكة، تتميز باللون الأحمر الصارخ.",
+        "description_en": "Plates designated for vehicles being exported out of the Kingdom, characterized by a vibrant red color.",
+        "images": {
+            "sample": "/public/plates/export_plate.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "name_ar": "لوحة السيارات الكلاسيكية (فئة أ)",
+        "name_en": "Classic Plate (Category A)",
+        "era": "Historical Archive",
+        "type": "Classic",
+        "colors": {
+            "background": "Yellow/Gold",
+            "text": "Black"
+        },
+        "description_ar": "لوحات مخصصة للسيارات المصنعة قبل عام 1970، تمنح للسيارات التاريخية للحفاظ على طابعها القديم.",
+        "description_en": "Special plates for cars manufactured before 1970, issued to historical vehicles to preserve their vintage character.",
+        "images": {
+            "sample": "/public/plates/classic_plate_a.jpg"
+        }
+    }
+]

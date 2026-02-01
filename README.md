@@ -21,6 +21,7 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
 | **Villages** | `/api/villages.json` | List of villages, history, and location. | قائمة القرى، تاريخها، ومواقعها. |
 | **Currencies** | `/api/currencies.json` | Old currencies used in Bahrain. | العملات القديمة المستخدمة في البحرين. |
 | **Photos** | `/api/historical_photos.json` | Archive of general historical photos. | أرشيف الصور التاريخية العامة. |
+| **Car Plates** | `/api/car_plates.json` | Historical car license plates. | لوحات السيارات التاريخية. |
 
 ---
 
@@ -54,6 +55,21 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
   "images": {
     "front": "/public/currencies/rupee_1_front.jpg",
     "back": "/public/currencies/rupee_1_back.jpg"
+  }
+}
+```
+
+### 🚗 Car Plates (لوحات السيارات)
+```json
+{
+  "id": 1,
+  "name_ar": "إصدار عام 1993",
+  "name_en": "1993 Series",
+  "era": "Modern Era (Classic Style)",
+  "type": "Private",
+  "colors": {
+    "background": "White",
+    "text": "Blue"
   }
 }
 ```
