@@ -1,0 +1,893 @@
+[
+    {
+        "id": 1,
+        "name_ar": "آل خليفة",
+        "name_en": "Al Khalifa",
+        "category": "Royal Family",
+        "description_ar": "الأسرة الحاكمة في مملكة البحرين منذ عام 1783، بعد أن قاد الشيخ أحمد بن محمد آل خليفة (الفاتح) فتح البحرين. تعود جذور العائلة لبيت عتبة.",
+        "description_en": "The ruling family of the Kingdom of Bahrain since 1783, following the conquest led by Sheikh Ahmed bin Mohammed Al Khalifa (the Conqueror). The family belongs to the Bani Utbah clan.",
+        "notable_for": "Governance, Politics, History"
+    },
+    {
+        "id": 2,
+        "name_ar": "كانو",
+        "name_en": "Kanoo",
+        "category": "Business & Merchant",
+        "description_ar": "تأسست مجموعة يوسف بن أحمد كانو في عام 1890، وهي واحدة من أكبر الشركات العائلية في الخليج، وتنشط في مجالات الشحن، اللوجستيات، والسفر.",
+        "description_en": "Founded in 1890, the Yusuf Bin Ahmed Kanoo Group is one of the largest family-owned conglomerates in the Gulf, active in shipping, logistics, and travel.",
+        "notable_for": "Commerce, Shipping, Logistics"
+    },
+    {
+        "id": 3,
+        "name_ar": "المؤيد",
+        "name_en": "Almoayyed",
+        "category": "Business & Merchant",
+        "description_ar": "من أبرز العائلات التجارية، أسس يوسف خليل المؤيد مجموعته في عام 1930. تشتهر العائلة بنشاطها في قطاع السيارات والإلكترونيات والمقاولات.",
+        "description_en": "One of the most prominent merchant families, Y.K. Almoayyed founded the group in 1930. The family is well-known for its activities in automotive, electronics, and construction.",
+        "notable_for": "Automotive, Electronics, Construction"
+    },
+    {
+        "id": 4,
+        "name_ar": "فخرو",
+        "name_en": "Fakhro",
+        "category": "Business & Merchant",
+        "description_ar": "عائلة تجارية عريقة يعود تاريخ نشاطها إلى عام 1888. تنشط مجموعة عبد الله يوسف فخرو في قطاعات متعددة تشمل السيارات، الشحن، والخدمات اللوجستية.",
+        "description_en": "A historic merchant family with activities dating back to 1888. The Abdulla Yousif Fakhro Group operates in various sectors including automotive, shipping, and logistics.",
+        "notable_for": "Trade, Industry, Shipping"
+    },
+    {
+        "id": 5,
+        "name_ar": "الزياني",
+        "name_en": "Alzayani",
+        "category": "Business & Merchant",
+        "description_ar": "عائلة تجارية بارزة تشتهر باستثماراتها في قطاع السيارات، العقارات، والصناعة. ساهمت بشكل كبير في التنمية الاقتصادية الحديثة للبحرين.",
+        "description_en": "A prominent merchant family known for investments in automotive, real estate, and industry. They have contributed significantly to Bahrain's modern economic development.",
+        "notable_for": "Automotive, Real Estate, Investment"
+    },
+    {
+        "id": 6,
+        "name_ar": "شويطر",
+        "name_en": "Showaiter",
+        "category": "Historical & Cultural",
+        "description_ar": "عائلة بحرينية عريقة تشتهر بصناعة الحلوى البحرينية التقليدية منذ أكثر من قرن، وأصبح اسمها مرادفاً لهذا التراث الشعبي.",
+        "description_en": "A historic Bahraini family famous for manufacturing traditional Bahraini Halwa for over a century; their name has become synonymous with this popular heritage product.",
+        "notable_for": "Traditional Confectionery (Halwa)"
+    },
+    {
+        "id": 7,
+        "name_ar": "الدوسري",
+        "name_en": "Al Dossary",
+        "category": "Tribal / Historical",
+        "description_ar": "من القبائل العربية الكبيرة التي استوطنت البحرين تاريخياً، واشتهر أبناؤها قديماً بممارسة الغوص على اللؤلؤ والتجارة.",
+        "description_en": "One of the major Arab tribes that historically settled in Bahrain. Its members were traditionally famous for pearl diving and trade.",
+        "notable_for": "Pearl Diving, Tribal Heritage"
+    },
+    {
+        "id": 8,
+        "name_ar": "كويهجي",
+        "name_en": "Kooheji",
+        "category": "Business & Merchant",
+        "description_ar": "عائلة تجارية مرموقة تشتهر بنشاطها الواسع في قطاع الذهب والمجوهرات، العقارات، والأزياء الراقية.",
+        "description_en": "A prestigious merchant family known for its extensive activities in the jewelry and gold sector, real estate, and high-end fashion.",
+        "notable_for": "Jewelry, Real Estate, Retail"
+    },
+    {
+        "id": 9,
+        "name_ar": "الزيّان",
+        "name_en": "Al Zayan",
+        "category": "Business & Merchant",
+        "description_ar": "عائلة تجارية تملك استثمارات ضخمة في الصناعة والخدمات، وتدير واحدة من كبرى مجموعات الاستثمار في المملكة.",
+        "description_en": "A merchant family with large investments in industry and services, managing one of the major investment groups in the Kingdom.",
+        "notable_for": "Industry, Services, Investment"
+    },
+    {
+        "id": 10,
+        "name_ar": "العريض",
+        "name_en": "Arrayedh",
+        "category": "Intellectual & Business",
+        "description_ar": "عائلة بحرينية عريقة برز فيها علماء وأدباء ورجالات أعمال، ولها مساهمات اجتماعية واقتصادية بارزة في تاريخ المنامة.",
+        "description_en": "A historic Bahraini family that has produced scholars, writers, and businessmen, with notable social and economic contributions to Manama's history.",
+        "notable_for": "Literature, Intellectuals, Commerce"
+    },
+    {
+        "id": 11,
+        "name_ar": "جناحي",
+        "name_en": "Janahi",
+        "category": "Merchant & Professional",
+        "description_ar": "عائلة تجارية ومهنية مرموقة، تنشط في مجالات متعددة تشمل المحاسبة، القانون، العقارات، والتجارة العامة.",
+        "description_en": "A prestigious merchant and professional family, active in multiple fields including accounting, law, real estate, and general trade.",
+        "notable_for": "Professional Services, Trade"
+    },
+    {
+        "id": 12,
+        "name_ar": "النعيمي",
+        "name_en": "Al Nuaimi",
+        "category": "Tribal / Historical",
+        "description_ar": "من القبائل العربية العريقة في البحرين والخليج العربي، ولها امتداد تاريخي وجذور عميقة في النسيج الاجتماعي البحريني.",
+        "description_en": "One of the ancient Arab tribes in Bahrain and the Arabian Gulf, with a historical extension and deep roots in the Bahraini social fabric.",
+        "notable_for": "Tribal Heritage, Social History"
+    },
+    {
+        "id": 13,
+        "name_ar": "المناعي",
+        "name_en": "Al Mannai",
+        "category": "Merchant & Historical",
+        "description_ar": "عائلة عريقة اشتهرت تاريخياً بتجارة اللؤلؤ وبالنواخذة (ربابنة الغوص)، ولها حضور تجاري واجتماعي قوي حتى اليوم.",
+        "description_en": "A historic family traditionally famous for pearl trading and producing 'Nokhathas' (diving captains). They maintain a strong commercial and social presence today.",
+        "notable_for": "Pearl Trade, Maritime History"
+    },
+    {
+        "id": 14,
+        "name_ar": "ناس",
+        "name_en": "Nass",
+        "category": "Industrial & Construction",
+        "description_ar": "تمتلك عائلة ناس واحدة من كبرى الشركات الصناعية والإنشائية في البحرين، وتلعب دوراً رئيسياً في تطوير البنية التحتية والمشاريع الكبرى.",
+        "description_en": "The Nass family owns one of Bahrain's largest industrial and construction companies, playing a key role in infrastructure development and major projects.",
+        "notable_for": "Construction, Civil Engineering, Industry"
+    },
+    {
+        "id": 15,
+        "name_ar": "البوعينين",
+        "name_en": "Al-Buainain",
+        "category": "Tribal / Historical",
+        "description_ar": "عائلة وقبيلة سكنت السواحل الشرقية للجزيرة العربية والبحرين، واشتهر أبناؤها بالبحر والصيد والمواقف التاريخية.",
+        "description_en": "A family and tribe that settled the eastern coasts of the Arabian Peninsula and Bahrain, known for their seafaring, fishing, and historical stances.",
+        "notable_for": "Seafaring, Tribal History"
+    },
+    {
+        "id": 16,
+        "name_ar": "الفاضل",
+        "name_en": "Al Fadhel",
+        "category": "Influential / Administrative",
+        "description_ar": "عائلة بحرينية عريقة شغلت مناصب إدارية وحكومية رفيعة ولها ثقل اجتماعي وتاريخي في العاصمة المنامة.",
+        "description_en": "A historic Bahraini family that has held high administrative and government positions and has significant social and historical weight in the capital, Manama.",
+        "notable_for": "Administration, Public Service"
+    },
+    {
+        "id": 17,
+        "name_ar": "البحارنة",
+        "name_en": "Baharna",
+        "category": "Indigenous / Social Group",
+        "description_ar": "السكان الأصليون في البحرين والقطيف والأحساء، يشتهرون بتاريخهم الطويل في الزراعة والحرف اليدوية كصناعة السفن والمنسوجات، ولهم لهجة وسمات ثقافية مميزة.",
+        "description_en": "The indigenous population of Bahrain, Qatif, and Al-Ahsa, known for their long history in agriculture and traditional crafts like shipbuilding and weaving. They have a distinct dialect and cultural traits.",
+        "notable_for": "Agriculture, Shipbuilding, Traditional Crafts"
+    },
+    {
+        "id": 18,
+        "name_ar": "بنو عتبة (العتوب)",
+        "name_en": "Banu Utbah (Utub)",
+        "category": "Tribal Confederation",
+        "description_ar": "حلف قبلي شهير يضم عائلات آل خليفة والصباح والجلاهمة، هاجروا من نجد واستقروا في سواحل الخليج وبنوا الزبارة ثم فتحوا البحرين في 1783.",
+        "description_en": "A famous tribal confederation including the Al Khalifa, Al Sabah, and Al Jalahma families. They migrated from Najd, settled on the Gulf coasts, built Al-Zubarah, and conquered Bahrain in 1783.",
+        "notable_for": "Migration, Conquest of Bahrain, Governance"
+    },
+    {
+        "id": 19,
+        "name_ar": "آل بن علي",
+        "name_en": "Al Bin Ali",
+        "category": "Tribal / Historical",
+        "description_ar": "من القبائل القوية التي كانت جزءاً من حلف العتوب، اشتهروا باستقلاليتهم وقوتهم البحرية ولهم دور كبير في تاريخ الزبارة والبحرين.",
+        "description_en": "One of the powerful tribes that were part of the Utub alliance, known for their independence and naval power. They played a major role in the history of Al-Zubarah and Bahrain.",
+        "notable_for": "Naval Power, Al-Zubarah History"
+    },
+    {
+        "id": 20,
+        "name_ar": "الجلاهمة",
+        "name_en": "Al Jalahma",
+        "category": "Tribal / Historical",
+        "description_ar": "أحد أركان حلف العتوب الثلاثة (بجانب آل خليفة وآل صباح)، اشتهر أبناؤهم بالفروسية والملاحة البحرية ولهم بصمة تاريخية واضحة في الخليج.",
+        "description_en": "One of the three pillars of the Utub alliance (alongside Al Khalifa and Al Sabah), known for their equestrian skills and navigation. They have a clear historical footprint in the Gulf.",
+        "notable_for": "Navigation, Utub Alliance"
+    },
+    {
+        "id": 21,
+        "name_ar": "الخاطر",
+        "name_en": "Al Khater",
+        "category": "Tribal / Merchant",
+        "description_ar": "عائلة عريقة من قبيلة بني هاجر سكنت البحرين وقطر، برزوا في التجارة والعلاقات الاجتماعية وساهموا في بناء النهضة العمرانية.",
+        "description_en": "A historic family from the Bani Hajer tribe who lived in Bahrain and Qatar. They rose to prominence in trade and social relations and contributed to the urban renaissance.",
+        "notable_for": "Trade, Urban Development"
+    },
+    {
+        "id": 22,
+        "name_ar": "جعفر",
+        "name_en": "Jaffar",
+        "category": "Professional / Merchant",
+        "description_ar": "عائلة تجارية ومهنية مرموقة في البحرين، برز منها العديد من الكفاءات في مجالات الإدارة والطب والهندسة ولها تاريخ حافل في العاصمة.",
+        "description_en": "A prestigious merchant and professional family in Bahrain, from which many experts in administration, medicine, and engineering emerged. They have a rich history in the capital.",
+        "notable_for": "Medicine, Administration, Commerce"
+    },
+    {
+        "id": 23,
+        "name_ar": "المسلم",
+        "name_en": "Al Musalam",
+        "category": "Tribal / Historical",
+        "description_ar": "من أقدم الأسر التي سكنت البحرين والمنطقة، ولهم تاريخ طويل يرتبط بقطاع الغوص والتجارة التقليدية والمواقف التاريخية المشهرفة.",
+        "description_en": "One of the oldest families to settle in Bahrain and the region, with a long history associated with the pearl diving sector, traditional trade, and honorable historical stances.",
+        "notable_for": "Ancient Settlement, traditional Trade"
+    },
+    {
+        "id": 24,
+        "name_ar": "السيد",
+        "name_en": "Al Sayed",
+        "category": "Religious / Social",
+        "description_ar": "لقب تحمله عائلات تنتسب إلى آل بيت النبي محمد (ص)، ولهم مكانة اجتماعية مرموقة في البحرين وبرز منهم علماء ورجال دولة.",
+        "description_en": "A title held by families descending from the Prophet Muhammad's family (Ahl al-Bayt). They hold a prestigious social status in Bahrain, and scholars and statesmen have emerged from them.",
+        "notable_for": "Religious Leadership, Public Service"
+    },
+    {
+        "id": 25,
+        "name_ar": "حاجي حسن",
+        "name_en": "Haji Hassan",
+        "category": "Business & Industry",
+        "description_ar": "أسسها الحاج حسن العالي، وتعتبر من أهم المجموعات الصناعية في البحرين، رائدة في قطاع الإنشاءات ومواد البناء والبنية التحتية.",
+        "description_en": "Founded by Haji Hassan Al-Aali, it is considered one of the most important industrial groups in Bahrain, leading in construction, building materials, and infrastructure.",
+        "notable_for": "Construction, Infrastructure"
+    },
+    {
+        "id": 26,
+        "name_ar": "القصيبي",
+        "name_en": "Al Gosaibi",
+        "category": "Merchant & Diplomatic",
+        "description_ar": "عائلة تجارية عريقة لعبت دوراً محورياً في التجارة بين البحرين ونجد، وبرز منها شخصيات دبلوماسية وأدبية هامة.",
+        "description_en": "A historic merchant family that played a pivotal role in trade between Bahrain and Najd, from which important diplomatic and literary figures emerged.",
+        "notable_for": "Trade, Diplomacy, Literature"
+    },
+    {
+        "id": 27,
+        "name_ar": "بني عبد القيس",
+        "name_en": "Banu Abdul Qays",
+        "category": "Ancient Tribe",
+        "description_ar": "القبيلة العربية التاريخية التي سكنت البحرين الكبرى (إقليم البحرين) منذ العصر الجاهلي وصدر الإسلام، واشتهرت بولائها المبكر للإسلام وشجاعتهم.",
+        "description_en": "The historical Arab tribe that inhabited Greater Bahrain since the Pre-Islamic era and early Islam, known for their early loyalty to Islam and their courage.",
+        "notable_for": "Ancient History, Early Islam"
+    },
+    {
+        "id": 28,
+        "name_ar": "العلوي",
+        "name_en": "Al Alawi",
+        "category": "Religious / Historical",
+        "description_ar": "عائلة تنتسب إلى علي بن أبي طالب، لها تاريخ طويل في البحرين وبرز منها العديد من العلماء والقضاة والشيوخ.",
+        "description_en": "A family descending from Ali ibn Abi Talib, with a long history in Bahrain, from which many scholars, judges, and sheikhs have emerged.",
+        "notable_for": "Scholarship, Jurisprudence"
+    },
+    {
+        "id": 29,
+        "name_ar": "خورشيد",
+        "name_en": "Khurshid",
+        "category": "Administrative / Military",
+        "description_ar": "عائلة لها جذور تاريخية ارتبطت بمهام إدارية وعسكرية في فترات مختلفة من تاريخ البحرين والخليج.",
+        "description_en": "A family with historical roots associated with administrative and military tasks in different periods of Bahrain's and the Gulf's history.",
+        "notable_for": "Administrative History"
+    },
+    {
+        "id": 30,
+        "name_ar": "الفردان",
+        "name_en": "Al Fardan",
+        "category": "Merchant & Cultural",
+        "description_ar": "عائلة عريقة ارتبط اسمها تاريخياً بتجارة اللؤلؤ والمجوهرات، وتعد اليوم من الأسماء الرائدة في عالم الذهب والساعات الفاخرة والخدمات المالية.",
+        "description_en": "A historic family whose name is traditionally associated with pearl and jewelry trading. Today, they are leading names in gold, luxury watches, and financial services.",
+        "notable_for": "Jewelry, Pearl Trading, Finance"
+    },
+    {
+        "id": 31,
+        "name_ar": "القلاف",
+        "name_en": "Al Qallaf",
+        "category": "Craft & Maritime",
+        "description_ar": "لقب وعائلة ارتبطت تاريخياً بصناعة السفن التقليدية (القلافة)، وهي من أهم الحرف التي قامت عليها اقتصاديات المنطقة قديماً.",
+        "description_en": "A title and family traditionally associated with shipbuilding (Qallafa), one of the most important crafts upon which the region's ancient economies were built.",
+        "notable_for": "Traditional Shipbuilding"
+    },
+    {
+        "id": 32,
+        "name_ar": "الأنصاري",
+        "name_en": "Alansari",
+        "category": "Scholarship & Professional",
+        "description_ar": "عائلة برزت تاريخياً بالعلم والتدين، وشغل أبناؤها مناصب في القضاء والتعليم والإمامة، ولهم تواجد واسع في مختلف مدن البحرين.",
+        "description_en": "A family traditionally prominent in scholarship and religion. Its members held positions in the judiciary, education, and imamate, with a wide presence across Bahrain.",
+        "notable_for": "Religious Scholarship, Education"
+    },
+    {
+        "id": 33,
+        "name_ar": "البنا",
+        "name_en": "Albanna",
+        "category": "Professional & Craft",
+        "description_ar": "عائلة ارتبط اسمها قديماً بمهنة البناء والعمارة التقليدية، وساهم أبناؤها في بناء العديد من البيوت والمساجد التاريخية في المحرق والمنامة.",
+        "description_en": "A family whose name was traditionally associated with building and traditional architecture. Its members contributed to building many historical houses and mosques.",
+        "notable_for": "Traditional Architecture, Construction"
+    },
+    {
+        "id": 34,
+        "name_ar": "الحداد",
+        "name_en": "Alhaddad",
+        "category": "Professional & Merchant",
+        "description_ar": "عائلة تجارية ومهنية، اشتهرت قديماً بحرفة الحدادة ثم انتقلت إلى قطاع التجارة وتوكيلات السيارات والمعدات الثقيلة.",
+        "description_en": "A merchant and professional family, historically known for blacksmithing before moving into trade, automotive agencies, and heavy equipment.",
+        "notable_for": "Automotive Trade, Industry"
+    },
+    {
+        "id": 35,
+        "name_ar": "المعاودة",
+        "name_en": "Al Ma'awdah",
+        "category": "Tribal / Historical",
+        "description_ar": "من الأسر البحرينية العريقة التي استقرت في المحرق، واشتهر أبناؤها بالتجارة والمواقف الاجتماعية والسياسية البارزة في تاريخ البحرين الحديث.",
+        "description_en": "One of the historic Bahraini families that settled in Muharraq, known for trade and prominent social and political stances in modern Bahraini history.",
+        "notable_for": "Trade, Social Leadership"
+    },
+    {
+        "id": 36,
+        "name_ar": "الكواري",
+        "name_en": "Al Kuwari",
+        "category": "Tribal / Historical",
+        "description_ar": "قبيلة عربية لها حضور قوي في البحرين وقطر، ارتبط اسمهم بالبحر والغوص والشهامة العربية والروابط القوية مع الأسر الحاكمة.",
+        "description_en": "An Arab tribe with a strong presence in Bahrain and Qatar, associated with the sea, diving, and strong ties with the ruling families.",
+        "notable_for": "Tribal Heritage, Seafaring"
+    },
+    {
+        "id": 37,
+        "name_ar": "الرميحي",
+        "name_en": "Al Rumaihi",
+        "category": "Tribal / Historical",
+        "description_ar": "قبيلة بحرينية عريقة استوطنت السواحل، واشتهرت تاريخياً بالشجاعة وبالنواخذة (ربابنة الغوص) ولها دور اجتماعي فعال.",
+        "description_en": "A historic Bahraini tribe that settled the coasts, traditionally famous for courage and producing Nokhathas (diving captains), with an active social role.",
+        "notable_for": "Maritime History, Tribal Values"
+    },
+    {
+        "id": 38,
+        "name_ar": "السليطي",
+        "name_en": "Al Sulaiti",
+        "category": "Tribal / Maritime",
+        "description_ar": "من القبائل البحرينية التي سكنت منطقة الحد والمحرق، واشتهروا بعلاقتهم الوثيقة بالبحر وصناعة الغوص على اللؤلؤ.",
+        "description_en": "One of the Bahraini tribes that inhabited the Hidd and Muharraq areas, famous for their close relationship with the sea and the pearl diving industry.",
+        "notable_for": "Pearl Diving, Coastal Settlement"
+    },
+    {
+        "id": 39,
+        "name_ar": "العوضي",
+        "name_en": "Alawadhi",
+        "category": "Merchant & Professional",
+        "description_ar": "عائلة تجارية ومهنية هاجرت تاريخياً من بر فارس واستقرت في البحرين، وتعتبر من الركائز الأساسية في السوق التجاري البحريني والعمل المهني.",
+        "description_en": "A merchant and professional family that historically migrated from Lingeh and settled in Bahrain, forming a cornerstone of the Bahraini commercial market.",
+        "notable_for": "Retail, Professional Services"
+    },
+    {
+        "id": 40,
+        "name_ar": "المقلة",
+        "name_en": "Al Muqla",
+        "category": "Cultural & Professional",
+        "description_ar": "عائلة بحرينية برز منها العديد من المبدعين في مجالات الفن والدراما والإخراج، وساهمت في تشكيل الوعي الثقافي والاعلامي في المملكة.",
+        "description_en": "A Bahraini family that has produced many innovators in the fields of art, drama, and directing, contributing to shaping the Kingdom's cultural and media awareness.",
+        "notable_for": "Media, Arts, Directing"
+    },
+    {
+        "id": 41,
+        "name_ar": "الشملان",
+        "name_en": "Al Shamlan",
+        "category": "Intellectual & Business",
+        "description_ar": "عائلة مرموقة برز منها مؤرخون وأدباء ورجال أعمال، ولهم تاريخ حافل في توثيق تاريخ البحرين والخليج العربي.",
+        "description_en": "A prestigious family that has produced historians, writers, and businessmen, with a rich history in documenting the history of Bahrain and the Arabian Gulf.",
+        "notable_for": "History, Literature, Commerce"
+    },
+    {
+        "id": 42,
+        "name_ar": "الرويعي",
+        "name_en": "Al Rowaiei",
+        "category": "Tribal / Administrative",
+        "description_ar": "عائلة استوطنت البحرين وبرز منها شخصيات في السلك الدبلوماسي والإداري، ولها حضور اجتماعي متجذر.",
+        "description_en": "A family that settled in Bahrain and produced prominent figures in the diplomatic and administrative sectors, with a deep-rooted social presence.",
+        "notable_for": "Diplomacy, Public Administration"
+    },
+    {
+        "id": 43,
+        "name_ar": "درويش",
+        "name_en": "Darwish",
+        "category": "Common / Merchant",
+        "description_ar": "لقب تحمله عائلات بحرينية متعددة تعمل في قطاعات التجارة والمقاولات، ولهم حضور واسع في النسيج الاجتماعي البحريني.",
+        "description_en": "A title held by multiple Bahraini families working in the trade and construction sectors, with a wide presence in the Bahraini social fabric.",
+        "notable_for": "General Trade, Construction"
+    },
+    {
+        "id": 44,
+        "name_ar": "دشتي",
+        "name_en": "Dashti",
+        "category": "Professional / Social",
+        "description_ar": "عائلة بحرينية تنتمي لمكونات المجتمع البحريني المتنوعة، برز منها مهنيون ومثقفون ورجال أعمال ساهموا في النهضة الاقتصادية.",
+        "description_en": "A Bahraini family belonging to the diverse components of Bahraini society, producing professionals, intellectuals, and businessmen who contributed to the economic renaissance.",
+        "notable_for": "Professionalism, Business"
+    },
+    {
+        "id": 45,
+        "name_ar": "الحلّي",
+        "name_en": "Al Hilli",
+        "category": "Scholarship & Religious",
+        "description_ar": "عائلة تعود جذورها إلى مدينة الحلة، سكنت المنامة وبرز منها خطباء وعلماء دين ساهموا في الحياة الروحية والاجتماعية بمحرق والمنامة.",
+        "description_en": "A family with roots in the city of Hillah, they settled in Manama and produced orators and religious scholars who contributed to the spiritual life of Bahrain.",
+        "notable_for": "Religious Scholarship, Oratory"
+    },
+    {
+        "id": 46,
+        "name_ar": "الطواش",
+        "name_en": "Al Tawash",
+        "category": "Maritime & Trade",
+        "description_ar": "لقب مهني تحول إلى اسم عائلة، ويعني 'تاجر اللؤلؤ' الذي يشتري من الغواصين في عرض البحر، وهي من أعرق المهن البحرينية.",
+        "description_en": "A professional title that became a family name, meaning 'Pearl Merchant' who buys from divers at sea, one of the most ancient Bahraini professions.",
+        "notable_for": "Pearl Merchant Heritage"
+    },
+    {
+        "id": 47,
+        "name_ar": "المرة",
+        "name_en": "Al Marri",
+        "category": "Tribal / Historical",
+        "description_ar": "من القبائل العربية الكبيرة التي لها امتداد في كافة دول الخليج، وتتميز بحضورها القوي وروابطها الاجتماعية المتينة في البحرين.",
+        "description_en": "One of the major Arab tribes with an extension across all Gulf countries, characterized by a strong presence and solid social ties in Bahrain.",
+        "notable_for": "Tribal Heritage, Social Strength"
+    },
+    {
+        "id": 48,
+        "name_ar": "شريفي",
+        "name_en": "Sharifi",
+        "category": "Common / Merchant",
+        "description_ar": "عائلة تجارية ومهنية لها تواجد في المنامة والمحرق، وتنشط في مجالات تجارة التجزئة والخدمات العامة.",
+        "description_en": "A merchant and professional family with a presence in Manama and Muharraq, active in the fields of retail and general services.",
+        "notable_for": "General Commerce"
+    },
+    {
+        "id": 49,
+        "name_ar": "المطرود",
+        "name_en": "Al Matrook",
+        "category": "Merchant & Industrial",
+        "description_ar": "عائلة تجارية بارزة تشتهر باستثماراتها في قطاعات الغذاء والصناعة والتجارة العامة، ولها مساهمات اقتصادية واضحة.",
+        "description_en": "A prominent merchant family known for its investments in the food, industrial, and general trade sectors, with clear economic contributions.",
+        "notable_for": "Food Industry, Trade"
+    },
+    {
+        "id": 50,
+        "name_ar": "الجمري",
+        "name_en": "Al Jamri",
+        "category": "Scholarship & Social",
+        "description_ar": "عائلة بحرينية عريقة تنسب إلى قرية بني جمرة، اشتهرت بالعلم والأدب والخطابة، وبرز منها شخصيات وطنية ودينية أثرت في تاريخ البحرين الحديث.",
+        "description_en": "A historic Bahraini family associated with the village of Bani Jamra. They are famous for scholarship, literature, and oratory, and have produced national and religious figures who influenced modern Bahraini history.",
+        "notable_for": "Religious Scholarship, Literature, National Activism"
+    },
+    {
+        "id": 51,
+        "name_ar": "الدرازي",
+        "name_en": "Al Derazi",
+        "category": "Scholarship & Historical",
+        "description_ar": "عائلة تنتسب إلى قرية الدراز، لها تاريخ طويل في العلم والفقاهة، وبرز منها العديد من كبار العلماء والفقهاء الذين ذاع صيتهم في المنطقة.",
+        "description_en": "A family originating from the village of Diraz, with a long history in religious scholarship and jurisprudence. They have produced many prominent scholars and jurists well-known in the region.",
+        "notable_for": "Jurisprudence, Religious Scholarship"
+    },
+    {
+        "id": 52,
+        "name_ar": "الغريفي",
+        "name_en": "Al Ghareefi",
+        "category": "Religious & Scholarship",
+        "description_ar": "عائلة علمية عريقة في البحرين والمنطقة، تشتهر بالنسب العلوي وبوجود عدد كبير من كبار العلماء والمراجع الدينية في صفوفها.",
+        "description_en": "A historic scholarly family in Bahrain and the region, known for their Alawite lineage and for having a large number of senior religious scholars and authorities among their ranks.",
+        "notable_for": "Religious Authority, Islamic Scholarship"
+    },
+    {
+        "id": 53,
+        "name_ar": "آل عصفور",
+        "name_en": "Al Asfoor",
+        "category": "Scholarship & Judiciary",
+        "description_ar": "من أعرق وأكبر العائلات العلمية في البحرين، لها تاريخ يمتد لقرون في القضاء والشرع، وبرز منها فقهاء وقضاة أداروا الشؤون الدينية لفترات طويلة.",
+        "description_en": "One of the oldest and largest scholarly families in Bahrain, with a history spanning centuries in the judiciary and Sharia. They produced jurists and judges who managed religious affairs for long periods.",
+        "notable_for": "Judiciary, Jurisprudence, Leadership"
+    },
+    {
+        "id": 54,
+        "name_ar": "الستري",
+        "name_en": "Al Sattari",
+        "category": "Scholarship & Historical",
+        "description_ar": "عائلة تنتسب إلى جزيرة سترة، اشتهرت قديماً بالعلم والزهد، وبرز منها علماء دين تركوا مؤلفات هامة في الفقه واللغة.",
+        "description_en": "A family associated with Sitra Island, historically known for scholarship and asceticism. They produced religious scholars who left important works in jurisprudence and language.",
+        "notable_for": "Scholarly works, Religious History"
+    },
+    {
+        "id": 55,
+        "name_ar": "المحمود",
+        "name_en": "Al Mahmoud",
+        "category": "Scholarship & Religious",
+        "description_ar": "عائلة علمية ودينية مرموقة من الهولة، اشتهرت بالعلم والوعظ والقضاء، وبرز منها العديد من الشيوخ الذين ساهموا في نشر العلوم الشرعية.",
+        "description_en": "A prestigious scholarly and religious family from the Huwala, famous for knowledge, preaching, and the judiciary. They produced many sheikhs who contributed to Islamic sciences.",
+        "notable_for": "Religious Scholarship, Judiciary"
+    },
+    {
+        "id": 56,
+        "name_ar": "الوزان",
+        "name_en": "Al Wazzan",
+        "category": "Merchant & Trade",
+        "description_ar": "عائلة تجارية بحرينية عريقة، ارتبط اسمها تاريخياً بقطاع التجارة والتموين، وساهمت في النشاط الاقتصادي للمملكة لعقود طويلة.",
+        "description_en": "A historic Bahraini merchant family. Their name is traditionally associated with the trade and catering sector, contributing to the Kingdom's economic activity for decades.",
+        "notable_for": "General Trade, Catering"
+    },
+    {
+        "id": 57,
+        "name_ar": "المسقطي",
+        "name_en": "Al Maskati",
+        "category": "Business & Industrial",
+        "description_ar": "عائلة تجارية بارزة تشتهر بنشاطها الواسع في قطاع الورق والمنتجات الورقية والقرطاسية، وتعتبر مجموعتهم من قادة هذا القطاع في المنطقة.",
+        "description_en": "A prominent business family known for their extensive activity in the paper and stationery sector. Their group is considered a leader in this field in the region.",
+        "notable_for": "Paper Industry, Stationery"
+    },
+    {
+        "id": 58,
+        "name_ar": "الخزاعي",
+        "name_en": "Al Khuzaie",
+        "category": "Tribal / Ancient",
+        "description_ar": "تنتسب إلى قبيلة خزاعة العربية العريقة، لها حضور تاريخي طويل في البحرين وبرز منها شخصيات اجتماعية وأدبية.",
+        "description_en": "Descending from the ancient Arab tribe of Khuza'ah, they have a long historical presence in Bahrain, with prominent social and literary figures.",
+        "notable_for": "Ancient Lineage, Literature"
+    },
+    {
+        "id": 59,
+        "name_ar": "المرزوق",
+        "name_en": "Al Marzooq",
+        "category": "Merchant & Professional",
+        "description_ar": "عائلة بحرينية مرموقة تعمل في قطاعات التجارة والمحاسبة والقانون، ولها دور فعال في المجتمع المهني البحريني.",
+        "description_en": "A prestigious Bahraini family operating in the trade, accounting, and law sectors. They play an active role in the Bahraini professional community.",
+        "notable_for": "Professional Services, Trade"
+    },
+    {
+        "id": 60,
+        "name_ar": "العراضي",
+        "name_en": "Al Aradi",
+        "category": "Village / Scholarship",
+        "description_ar": "عائلة تنسب إلى منطقة عراد، اشتهرت بالعلم والخطابة، وبرز منها علماء دين ومثقفون ساهموا في الحياة الاجتماعية.",
+        "description_en": "A family associated with the Arad area, famous for knowledge and oratory. They produced religious scholars and intellectuals who contributed to social life.",
+        "notable_for": "Religious Oratory, Scholarship"
+    },
+    {
+        "id": 61,
+        "name_ar": "السندي",
+        "name_en": "Al Sanadi",
+        "category": "Village / Professional",
+        "description_ar": "عائلة تنسب إلى قرية سند، لها حضور اجتماعي ومهني، وبرز أبناؤها في مجالات العمل الحكومي والتجارة.",
+        "description_en": "A family associated with the village of Sanad, with a social and professional presence. Its members excel in government work and trade.",
+        "notable_for": "Public Service, Local History"
+    },
+    {
+        "id": 62,
+        "name_ar": "الديري",
+        "name_en": "Al Dairy",
+        "category": "Village / Scholarship",
+        "description_ar": "عائلة تنسب إلى قرية الدير، اشتهرت قديماً بالبحر وصيد اللؤلؤ كما برز منها رجال علم وأدب.",
+        "description_en": "A family from the village of Dair, historically known for seafaring and pearl diving, as well as producing scholars and literary figures.",
+        "notable_for": "Maritime History, Scholarship"
+    },
+    {
+        "id": 63,
+        "name_ar": "العكري",
+        "name_en": "Al Akari",
+        "category": "Village / Social",
+        "description_ar": "عائلة تنسب إلى قرية العكر، لها روابط اجتماعية قوية وتاريخ يرتبط بحياة القرى البحرينية التقليدية.",
+        "description_en": "A family from the village of Eker, with strong social ties and a history linked to traditional Bahraini village life.",
+        "notable_for": "Village Heritage, Social Solidarity"
+    },
+    {
+        "id": 64,
+        "name_ar": "التوبلاني",
+        "name_en": "Al Tublani",
+        "category": "Village / Scholarship",
+        "description_ar": "عائلة تنسب إلى قرية توبلي، تفتخر بتاريخ حافل من العلماء والفقهاء، لعل أشهرهم العلامة السيد هاشم التوبلاني.",
+        "description_en": "A family from the village of Tubli, boasting a rich history of scholars and jurists, most notably the scholar Sayyid Hashim Al-Tublani.",
+        "notable_for": "Religious Scholarship (Jurists)"
+    },
+    {
+        "id": 65,
+        "name_ar": "الصيرفي",
+        "name_en": "Al Sairafi",
+        "category": "Merchant & Finance",
+        "description_ar": "لقب مِهني تحول لاسم عائلة ارتبط بمهنة الصرافة وتبديل العملات، وهي من أقدم المهن المالية في أسواق المنامة والمحرق.",
+        "description_en": "A professional title that became a family name associated with the money exchange profession, one of the oldest financial trades in Manama and Muharraq.",
+        "notable_for": "Money Exchange, Finance History"
+    },
+    {
+        "id": 66,
+        "name_ar": "الغطم",
+        "name_en": "Al Ghatam",
+        "category": "Tribal / Administrative",
+        "description_ar": "عائلة عربية عريقة لها حضور في السلك العسكري والإداري، وتشتهر بروابطها الاجتماعية المتينة ومواقفها الوطنية.",
+        "description_en": "An ancient Arab family with a presence in the military and administrative sectors, known for strong social ties and national stances.",
+        "notable_for": "Administrative Leadership, Public Service"
+    },
+    {
+        "id": 67,
+        "name_ar": "الريس",
+        "name_en": "Al Rayes",
+        "category": "Huwala / Merchant",
+        "description_ar": "من عائلات الهولة المرموقة التي سكنت البحرين، برزوا في التجارة والعمل الحكومي والخدمات العامة.",
+        "description_en": "One of the prestigious Huwala families that settled in Bahrain, rising to prominence in trade, government work, and public services.",
+        "notable_for": "General Trade, Civil Service"
+    },
+    {
+        "id": 68,
+        "name_ar": "الجلال",
+        "name_en": "Al Jallal",
+        "category": "Business & Trade",
+        "description_ar": "عائلة تجارية تعمل في قطاعات متنوعة تشمل البناء والتجارة والخدمات، ولها مساهمات في القطاع الخاص البحريني.",
+        "description_en": "A merchant family operating in various sectors including construction, trade, and services, with contributions to the Bahraini private sector.",
+        "notable_for": "Private Sector Investments"
+    },
+    {
+        "id": 69,
+        "name_ar": "البستكي",
+        "name_en": "Al Bastaki",
+        "category": "Huwala / Merchant",
+        "description_ar": "عائلة هاجرت من منطقة بستك واستقرت في البحرين، اشتهر أبناؤها بالتجارة والأدب والعلم ولهم حضور اجتماعي بارز.",
+        "description_en": "A family that migrated from the Bastak region and settled in Bahrain. Its members are known for trade, literature, and scholarship, with a prominent social presence.",
+        "notable_for": "Trade, Cultural Contributions"
+    },
+    {
+        "id": 70,
+        "name_ar": "الكازروني",
+        "name_en": "Al Kazerooni",
+        "category": "Ajam / Merchant",
+        "description_ar": "عائلة بحرينية من أصول تعود لمدينة كازرون، سكنت المنامة واشتهرت بالتجارة وخاصة في سوق المنامة القديم.",
+        "description_en": "A Bahraini family with origins in Kazeroon, they settled in Manama and were famous for trade, especially in the Old Manama Souq.",
+        "notable_for": "Commerce, Old Manama History"
+    },
+    {
+        "id": 71,
+        "name_ar": "الشيراوي",
+        "name_en": "Al Shirawi",
+        "category": "Huwala / Administrative",
+        "description_ar": "عائلة مرموقة شغلت مناصب إدارية وحكومية رفيعة في تاريخ البحرين الحديث، ولها مساهمات كبيرة في التنمية الوطنية.",
+        "description_en": "A prestigious family that held high administrative and government positions in modern Bahraini history, with significant contributions to national development.",
+        "notable_for": "High-level Administration, Public Policy"
+    },
+    {
+        "id": 72,
+        "name_ar": "اللاري",
+        "name_en": "Lari",
+        "category": "Ajam / Merchant",
+        "description_ar": "عائلة تجارية استقرت في البحرين منذ فترة طويلة، تنشط في مجالات التجارة العامة والمواد الغذائية.",
+        "description_en": "A merchant family that has long settled in Bahrain, active in the fields of general trade and food products.",
+        "notable_for": "Food Trade, General Commerce"
+    },
+    {
+        "id": 73,
+        "name_ar": "البوشهري",
+        "name_en": "Al Bousheiri",
+        "category": "Ajam / Merchant",
+        "description_ar": "عائلة تعود أصولها لمدينة بوشهر، استقرت في المنامة والمحرق وبرز أبناؤها في التجارة والمهن التخصصية.",
+        "description_en": "A family with origins in Bushehr, they settled in Manama and Muharraq, and its members excelled in trade and specialized professions.",
+        "notable_for": "Entrepreneurship, Professional Skills"
+    },
+    {
+        "id": 74,
+        "name_ar": "الحمادي",
+        "name_en": "Al Hammadi",
+        "category": "Tribal / Historical",
+        "description_ar": "من القبائل العربية التي سكنت سواحل الخليج، ولها حضور في البحرين ودور في التاريخ البحري والتجاري للمنطقة.",
+        "description_en": "One of the Arab tribes that inhabited the Gulf coasts, with a presence in Bahrain and a role in the maritime and commercial history of the region.",
+        "notable_for": "Maritime History, Tribal Lineage"
+    },
+    {
+        "id": 75,
+        "name_ar": "الهاجري",
+        "name_en": "Al Hajeri",
+        "category": "Tribal / Historical",
+        "description_ar": "تنتسب لقبيلة بني هاجر العربية الشهيرة، لها حضور اجتماعي وازن في البحرين وروابط قبلية وثيقة في المنطقة.",
+        "description_en": "Descending from the famous Bani Hajer Arab tribe, they have a substantial social presence in Bahrain and close tribal ties in the region.",
+        "notable_for": "Tribal Values, Social Influence"
+    },
+    {
+        "id": 76,
+        "name_ar": "الشروقي",
+        "name_en": "Al Shorooqi",
+        "category": "Tribal / Historical",
+        "description_ar": "عائلة بحرينية عريقة استوطنت منطقة الحد، واشتهر أبناؤها بالبحر والملاحة وبولائهم ومواقفهم الوطنية.",
+        "description_en": "A historic Bahraini family that settled in the Hidd area, known for seafaring, navigation, and their national loyalty.",
+        "notable_for": "Maritime History, Hidd Community"
+    },
+    {
+        "id": 77,
+        "name_ar": "العويناتي",
+        "name_en": "Al Awainati",
+        "category": "Social / Professional",
+        "description_ar": "عائلة بحرينية لها تواجد اجتماعي في مختلف مناطق المملكة، وبرز منها مهنيون في مختلف القطاعات.",
+        "description_en": "A Bahraini family with a social presence across various regions of the Kingdom, with professionals emerging in different sectors.",
+        "notable_for": "Professional Diversity, Social Ties"
+    },
+    {
+        "id": 78,
+        "name_ar": "البصري",
+        "name_en": "Al Basri",
+        "category": "Historical & Religious",
+        "description_ar": "عائلة تحمل لقباً يشير تاريخياً لمدينة البصرة، ولها استقرار قديم في البحرين وبرز منها رجال دين وأدباء.",
+        "description_en": "A family bearing a title that historically refers to the city of Basra, with ancient settlement in Bahrain and prominent religious and literary figures.",
+        "notable_for": "Religious Scholarship, Literature"
+    },
+    {
+        "id": 79,
+        "name_ar": "الصادق",
+        "name_en": "Al Sadeq",
+        "category": "Scholarship & Professional",
+        "description_ar": "عائلة اشتهرت بالعلم والالتزام الديني، وبرز منها العديد من المختصين في مجالات الطب والهندسة والتعليم.",
+        "description_en": "A family known for knowledge and religious commitment, from which many specialists in medicine, engineering, and education emerged.",
+        "notable_for": "Medicine, Education, Professionalism"
+    },
+    {
+        "id": 80,
+        "name_ar": "المدن",
+        "name_en": "Al Madan",
+        "category": "Village / Professional",
+        "description_ar": "عائلة تنسب لقرية جدحفص وجبله، اشتهرت بالعصامية وبالعمل في المجال التجاري والمهني.",
+        "description_en": "A family from Jidhafs and Jiblat Hebshi, known for self-reliance and working in the commercial and professional fields.",
+        "notable_for": "Entrepreneurship, Local Commerce"
+    },
+    {
+        "id": 81,
+        "name_ar": "الشهابي",
+        "name_en": "Al Shehabi",
+        "category": "Village / Scholarship",
+        "description_ar": "عائلة تنسب لقرية الدراز وشهركان، لها تاريخ في العلم والخطابة الحسينية وبرز منها أدباء وشعراء.",
+        "description_en": "A family associated with the villages of Diraz and Shahrakkan, with a history in knowledge and religious oratory, producing writers and poets.",
+        "notable_for": "Religious Oratory, Poetry"
+    },
+    {
+        "id": 82,
+        "name_ar": "الرياش",
+        "name_en": "Al Rayash",
+        "category": "Tribal / Coastal",
+        "description_ar": "عائلة استوطنت السواحل، ارتبط تاريخها بالبحر وصيد اللؤلؤ وتعد من الأسر البحرينية القديمة.",
+        "description_en": "A family that settled the coasts, its history linked to the sea and pearl diving, and is considered one of the old Bahraini families.",
+        "notable_for": "Seafaring, Coastal Heritage"
+    },
+    {
+        "id": 83,
+        "name_ar": "المقابي",
+        "name_en": "Al Maqabi",
+        "category": "Village / Social",
+        "description_ar": "تنتسب لقرية مقابة، عائلة لها سجل حافل في العمل الاجتماعي والمهني في البحرين.",
+        "description_en": "Associated with the village of Maqaba, a family with a rich record in social and professional work in Bahrain.",
+        "notable_for": "Social Work, Village Identity"
+    },
+    {
+        "id": 84,
+        "name_ar": "السهلاوي",
+        "name_en": "Al Sahlawi",
+        "category": "Village / Social",
+        "description_ar": "تنتسب لقرية السهلة، عائلة لها حضور اجتماعي قوي وارتباط وثيق بالأرض والزراعة قديماً.",
+        "description_en": "Associated with the village of Sehla, a family with a strong social presence and a close link to land and agriculture in the past.",
+        "notable_for": "Agriculture History, Local Leadership"
+    },
+    {
+        "id": 85,
+        "name_ar": "الخويلدي",
+        "name_en": "Al Khuwaildi",
+        "category": "Historical / Professional",
+        "description_ar": "عائلة بحرينية قديمة لها تواجد اجتماعي في مناطق مختلفة، برز منها مهنيون وموظفون في الدولة.",
+        "description_en": "An old Bahraini family with a social presence in different areas, with professionals and state employees emerging from it.",
+        "notable_for": "Public Sector Service"
+    },
+    {
+        "id": 86,
+        "name_ar": "الشايب",
+        "name_en": "Al Shayeb",
+        "category": "Social / Common",
+        "description_ar": "لقب تحمله عائلات بحرينية عريقة، لها حضور في المنامة والمحرق وتشتهر بالروابط الاجتماعية المتينة.",
+        "description_en": "A title held by historic Bahraini families, with a presence in Manama and Muharraq, known for strong social ties.",
+        "notable_for": "Social Connectivity"
+    },
+    {
+        "id": 87,
+        "name_ar": "الملا",
+        "name_en": "Al Mulla",
+        "category": "Religious / Educational",
+        "description_ar": "لقب كان يطلق قديماً على المتعلمين ومعلمي القرآن، وتحول لاسم عائلة لها مكانة في التعليم والدين.",
+        "description_en": "A title once given to educated individuals and Quran teachers, it became a family name with a status in education and religion.",
+        "notable_for": "Traditional Education, Quran Teaching"
+    },
+    {
+        "id": 88,
+        "name_ar": "المحرقي",
+        "name_en": "Al Muharraqi",
+        "category": "Artistic & Cultural",
+        "description_ar": "لقب يحمله المبدع الكبير عبد الله المحرقي وعائلته، والذين وضعوا بصمة عالمية في الفن التشكيلي والكاريكاتير البحريني.",
+        "description_en": "A title held by the great artist Abdullah Al-Muharraqi and his family, who left a global mark on Bahraini fine arts and caricature.",
+        "notable_for": "Fine Arts, Illustration"
+    },
+    {
+        "id": 90,
+        "name_ar": "الخراز",
+        "name_en": "Al Kharraz",
+        "category": "Professional / Craft",
+        "description_ar": "لقب ارتبط بحرفة الجلود وصناعة النعال (الخرازة)، تحول لاسم عائلة توارث أبناؤها هذه الحرفة التقليدية.",
+        "description_en": "A title linked to the leather craft and sandal making (Khirraza), it became a family name whose members inherited this traditional craft.",
+        "notable_for": "Traditional Leatherwork"
+    },
+    {
+        "id": 91,
+        "name_ar": "الصباغ",
+        "name_en": "Al Sabbagh",
+        "category": "Professional / Craft",
+        "description_ar": "ارتبطت العائلة قديماً بمهنة صباغة الأقمشة، وهي من المهن اليدوية القديمة التي ازدهرت في أسواق البحرين.",
+        "description_en": "The family was historically associated with the fabric dyeing profession, one of the ancient handicrafts that flourished in Bahrain's markets.",
+        "notable_for": "Textile Dyeing History"
+    },
+    {
+        "id": 92,
+        "name_ar": "الهيكي",
+        "name_en": "Al Haiki",
+        "category": "Professional / Craft",
+        "description_ar": "عائلة ارتبطت بحرفة النسيج (الحياكة) التي اشتهرت بها قرية بني جمرة والمنامة قديماً.",
+        "description_en": "A family associated with the weaving craft for which the village of Bani Jamra and Manama were historically famous.",
+        "notable_for": "Traditional Weaving"
+    },
+    {
+        "id": 93,
+        "name_ar": "السماهيجي",
+        "name_en": "Al Samaheeji",
+        "category": "Village / Scholarship",
+        "description_ar": "تنتسب لقرية سماهيج، عائلة لها تاريخ علمي عريق، لعل أبرزهم الشيخ عبد الله السماهيجي صاحب المؤلفات الفقهية.",
+        "description_en": "Associated with the village of Samaheej, a family with a long scholarly history, most notably Sheikh Abdullah Al-Samaheeji, author of jurisprudential works.",
+        "notable_for": "Islamic Jurisprudence, History"
+    },
+    {
+        "id": 94,
+        "name_ar": "المرباطي",
+        "name_en": "Al Murbati",
+        "category": "Tribal / Historical",
+        "description_ar": "عائلة لها جذور تاريخية وحضور اجتماعي في المحرق، اشتهرت بمواقفها الاجتماعية وبمساهماتها في الخدمة العامة.",
+        "description_en": "A family with historical roots and a social presence in Muharraq, known for its social stances and contributions to public service.",
+        "notable_for": "Social Services, Local Leadership"
+    },
+    {
+        "id": 95,
+        "name_ar": "العامر",
+        "name_en": "Al Amer",
+        "category": "Tribal / Historical",
+        "description_ar": "عائلة عربية تنتمي لقبائل فديم، لها حضور في البحرين والخليج وتشتهر بالكرم والروابط الاجتماعية الوثيقة.",
+        "description_en": "An Arab family belonging to ancient tribes, with a presence in Bahrain and the Gulf, known for generosity and close social ties.",
+        "notable_for": "Tribal Heritage, Social Values"
+    },
+    {
+        "id": 96,
+        "name_ar": "السعد",
+        "name_en": "Al Saad",
+        "category": "Merchant & Professional",
+        "description_ar": "عائلة تجارية ومهنية مرموقة، تنشط في مجالات التجارة والمقاولات ولها بصمة في القطاع العقاري والإنشائي.",
+        "description_en": "A prestigious merchant and professional family, active in the fields of trade and contracting, with a footprint in the real estate and construction sectors.",
+        "notable_for": "Real Estate, Contracting"
+    },
+    {
+        "id": 97,
+        "name_ar": "الثوادي",
+        "name_en": "Al Thawadi",
+        "category": "Tribal / Administrative",
+        "description_ar": "عائلة عربية عريقة لها حضور بارز في الرياضة والإعلام والعمل الحكومي، ولها ثقل اجتماعي في مدينة الحد والمحرق.",
+        "description_en": "A historic Arab family with a prominent presence in sports, media, and government work, with social weight in Hidd and Muharraq.",
+        "notable_for": "Media, Sports, Public Service"
+    },
+    {
+        "id": 98,
+        "name_ar": "السويد",
+        "name_en": "Al Swayed",
+        "category": "Historical / Professional",
+        "description_ar": "عائلة بحرينية قديمة لها تواجد في مختلف مناطق المملكة، برز منها كفاءات في مجالات الإدارة والتعليم.",
+        "description_en": "An old Bahraini family with a presence in different areas, with experts in administration and education emerging from it.",
+        "notable_for": "Education, Management"
+    },
+    {
+        "id": 99,
+        "name_ar": "الجريدي",
+        "name_en": "Al Jaridi",
+        "category": "Traditional / Common",
+        "description_ar": "عائلة بحرينية عريقة لها تواجد في أحياء المنامة القديمة، ارتبط اسمها بالحياة الاجتماعية والمهنية في العاصمة.",
+        "description_en": "A historic Bahraini family with a presence in old Manama neighborhoods, its name linked to social and professional life in the capital.",
+        "notable_for": "Local Residency History"
+    },
+    {
+        "id": 100,
+        "name_ar": "البكر",
+        "name_en": "Al Bakr",
+        "category": "Historical / Merchant",
+        "description_ar": "عائلة تجارية عريقة سكنت البحرين، اشتهرت قديماً بالتجارة البحرية ولها دور في النشاط التجاري التقليدي.",
+        "description_en": "A historic merchant family that settled in Bahrain, once famous for maritime trade and playing a role in traditional commercial activity.",
+        "notable_for": "Maritime Trade, Commerce History"
+    }
+]

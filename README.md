@@ -24,6 +24,7 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
 | **Car Plates** | `/api/car_plates.json` | Historical car license plates. | لوحات السيارات التاريخية. |
 | **Mosques** | `/api/mosques.json` | Historical mosques in Bahrain. | المساجد التاريخية. |
 | **Matams** | `/api/matams.json` | Historical community houses (Matams). | المآتم التاريخية. |
+| **family** | `/api/family.json` | Prominent Bahraini family and tribes. | العائلات والقبائل البحرينية البارزة. |
 
 ---
 
@@ -102,6 +103,17 @@ Since this is a static API hosted on GitHub Pages, you can fetch data directly u
     "lng": 50.5760
   }
 }
+```
+
+### 👥 family  (العائلات والقبائل)
+```json
+ {
+        "id": 17,
+        "name_ar": "البحارنة",
+        "name_en": "Baharna",
+        "category": "Indigenous / Social Group",
+        "notable_for": "Agriculture, Shipbuilding, Traditional Crafts"
+    }
 ```
 
 ---
