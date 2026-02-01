@@ -30,5 +30,382 @@
             "/public/villages/muharraq-house.jpg",
             "/public/villages/muharraq-market.jpg"
         ]
+    },
+    {
+        "id": 3,
+        "name_ar": "المنامة",
+        "name_en": "Manama",
+        "category": "Capital City",
+        "description_ar": "عاصمة مملكة البحرين ومركزها الاقتصادي والتجاري. تجمع بين الحداثة والتاريخ، وتضم العديد من المعالم السياحية مثل باب البحرين وسوق المنامة القديم.",
+        "description_en": "The capital of Bahrain and its economic and commercial hub. It blends modernity with history, featuring landmarks like Bab Al Bahrain and the old Manama Souq.",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.5860
+        },
+        "images": []
+    },
+    {
+        "id": 4,
+        "name_ar": "بلاد القديم",
+        "name_en": "Bilad Al Qadeem",
+        "category": "Historical District",
+        "description_ar": "واحدة من أقدم المناطق التاريخية في البحرين، كانت العاصمة الإدارية والسياسية قديماً. تشتهر بوجود مسجد الخميس الأثري ومدرسة الخميس.",
+        "description_en": "One of the oldest historical areas in Bahrain, formerly the administrative and political capital. It is famous for the historical Al Khamis Mosque and Al Khamis School.",
+        "location": {
+            "lat": 26.2069,
+            "lng": 50.5576
+        },
+        "images": []
+    },
+    {
+        "id": 5,
+        "name_ar": "سترة",
+        "name_en": "Sitra",
+        "category": "Island City",
+        "description_ar": "جزيرة صناعية وسكنية هامة، تشتهر بموانئها ومصانعها، وتضم قرى تاريخية مثل واديان والقرية وسفالة. تعد مركزاً حيوياً للصناعة في البحرين.",
+        "description_en": "An important industrial and residential island, famous for its ports and factories. It includes historical villages like Wadyan, Al Qurayya, and Sufala, and is a vital industrial center in Bahrain.",
+        "location": {
+            "lat": 26.1550,
+            "lng": 50.6200
+        },
+        "images": []
+    },
+    {
+        "id": 6,
+        "name_ar": "النبيه صالح",
+        "name_en": "Nabih Saleh",
+        "category": "Village Island",
+        "description_ar": "جزيرة هادئة تقع في خليج توبلي، تشتهر بوجود مقام العبد الصالح 'صالح' الذي سميت الجزيرة باسمه. كانت قديماً غنية بالعيون الطبيعية والبساتين.",
+        "description_en": "A quiet island located in Tubli Bay, famous for the shrine of the righteous servant 'Saleh', after whom the island is named. It was historically rich with natural springs and orchards.",
+        "location": {
+            "lat": 26.1842,
+            "lng": 50.5856
+        },
+        "images": []
+    },
+    {
+        "id": 7,
+        "name_ar": "توبلي",
+        "name_en": "Tubli",
+        "category": "Residential Area",
+        "description_ar": "منطقة سكنية وتجارية تطل على خليج توبلي المحمي دولياً. تشتهر بتنوعها البيئي ومناظرها الجميلة على الخليج.",
+        "description_en": "A residential and commercial area overlooking the internationally protected Tubli Bay. It is known for its ecological diversity and beautiful views of the bay.",
+        "location": {
+            "lat": 26.1920,
+            "lng": 50.5600
+        },
+        "images": []
+    },
+    {
+        "id": 8,
+        "name_ar": "جد حفص",
+        "name_en": "Jidhafs",
+        "category": "Historical Town",
+        "description_ar": "مدينة تاريخية عريقة، كانت قديماً مركزاً للعلم والتعليم الديني. تضم العديد من المساجد والمآتم التاريخية والمراكز التجارية.",
+        "description_en": "An ancient historical city, once a center for religious science and education. It houses many historical mosques, community centers, and commercial areas.",
+        "location": {
+            "lat": 26.2200,
+            "lng": 50.5400
+        },
+        "images": []
+    },
+    {
+        "id": 9,
+        "name_ar": "السنابس",
+        "name_en": "Sanabis",
+        "category": "Village",
+        "description_ar": "منطقة ساحلية تقع غرب المنامة، تشتهر بنشاطها التجاري والسكني، وتضم مركز البحرين الدولي للمعارض والمؤتمرات.",
+        "description_en": "A coastal area located west of Manama, known for its commercial and residential activity, and home to the Bahrain International Exhibition & Convention Centre.",
+        "location": {
+            "lat": 26.2300,
+            "lng": 50.5500
+        },
+        "images": []
+    },
+    {
+        "id": 10,
+        "name_ar": "الزنج",
+        "name_en": "Zinj",
+        "category": "Residential District",
+        "description_ar": "منطقة سكنية راقية في المنامة، تتميز بموقعها الاستراتيجي وقربها من الخدمات والمراكز الطبية الكبرى.",
+        "description_en": "An upscale residential area in Manama, characterized by its strategic location and proximity to major services and medical centers.",
+        "location": {
+            "lat": 26.2050,
+            "lng": 50.5750
+        },
+        "images": []
+    },
+    {
+        "id": 11,
+        "name_ar": "العدلية",
+        "name_en": "Adliya",
+        "category": "Artistic District",
+        "description_ar": "تعتبر المركز الثقافي والفني في المنامة، وتشتهر بكثرة المطاعم الراقية والصالات الفنية (الجاليريهات) والمنازل التقليدية المرممة.",
+        "description_en": "Considered the cultural and artistic center of Manama, it is famous for its fine dining restaurants, art galleries, and restored traditional houses.",
+        "location": {
+            "lat": 26.2160,
+            "lng": 50.5900
+        },
+        "images": []
+    },
+    {
+        "id": 12,
+        "name_ar": "الجفير",
+        "name_en": "Juffair",
+        "category": "Commercial District",
+        "description_ar": "منطقة عصرية وحيوية في المنامة، تضم العديد من الفنادق والمطاعم والمباني السكنية الحديثة، وهي مركز للجالية الأجنبية.",
+        "description_en": "A modern and vibrant area in Manama, housing many hotels, restaurants, and modern residential buildings, and is a hub for the expatriate community.",
+        "location": {
+            "lat": 26.2150,
+            "lng": 50.6050
+        },
+        "images": []
+    },
+    {
+        "id": 13,
+        "name_ar": "سند",
+        "name_en": "Sanad",
+        "category": "Village",
+        "description_ar": "منطقة هادئة تقع جنوب المنامة، تشتهر بمنازلها الواسعة وبساتين النخيل، وهي من المناطق المرغوبة للسكن العائلي.",
+        "description_en": "A quiet area located south of Manama, famous for its spacious houses and palm groves, and is a desirable area for family residence.",
+        "location": {
+            "lat": 26.1500,
+            "lng": 50.5700
+        },
+        "images": []
+    },
+    {
+        "id": 14,
+        "name_ar": "عذاري",
+        "name_en": "Adhari",
+        "category": "Historical Site",
+        "description_ar": "تشتهر بعين عذاري التاريخية التي كانت من أشهر العيون الطبيعية في البحرين، وتضم حالياً منتزهاً سياحياً شهيراً.",
+        "description_en": "Famous for the historical Ain Adhari, which was one of the most famous natural springs in Bahrain, and now features a popular tourist park.",
+        "location": {
+            "lat": 26.2000,
+            "lng": 50.5450
+        },
+        "images": []
+    },
+    {
+        "id": 15,
+        "name_ar": "كرباباد",
+        "name_en": "Karbabad",
+        "category": "Coastal Village",
+        "description_ar": "قرية ساحلية تقع بالقرب من قلعة البحرين، وتشتهر بصناعة السلال التقليدية من خوص النخيل.",
+        "description_en": "A coastal village located near the Bahrain Fort, famous for traditional basket weaving from palm leaves.",
+        "location": {
+            "lat": 26.2380,
+            "lng": 50.5480
+        },
+        "images": []
+    },
+    {
+        "id": 16,
+        "name_ar": "المعامير",
+        "name_en": "Ma'ameer",
+        "category": "Industrial Village",
+        "description_ar": "تقع على الشاطئ الشرقي للبحرين، وتعرف بنشاطها الصناعي وقربها من مصفاة النفط (بابكو).",
+        "description_en": "Located on the eastern coast of Bahrain, it is known for its industrial activity and proximity to the Bapco oil refinery.",
+        "location": {
+            "lat": 26.1300,
+            "lng": 50.6150
+        },
+        "images": []
+    },
+    {
+        "id": 17,
+        "name_ar": "العكر",
+        "name_en": "Eker",
+        "category": "Village",
+        "description_ar": "منطقة سكنية تقع بالقرب من سترة، وتتميز بطبيعتها الهادئة وبساتينها الزراعية سابقاً.",
+        "description_en": "A residential area located near Sitra, characterized by its quiet nature and formerly agricultural groves.",
+        "location": {
+            "lat": 26.1437,
+            "lng": 50.6028
+        },
+        "images": []
+    },
+    {
+        "id": 18,
+        "name_ar": "الخميس",
+        "name_en": "Al Khamis",
+        "category": "Historical Village",
+        "description_ar": "تضم أقدم مسجد في تاريخ البحرين وهو مسجد الخميس بمآذنه الشهيرة، وتعتبر من أهم المزارات التاريخية.",
+        "description_en": "Home to the oldest mosque in Bahrain's history, Al Khamis Mosque, with its famous minarets, and is considered one of the most important historical sites.",
+        "location": {
+            "lat": 26.2050,
+            "lng": 50.5500
+        },
+        "images": []
+    },
+    {
+        "id": 19,
+        "name_ar": "الحورة",
+        "name_en": "Hoora",
+        "category": "District",
+        "description_ar": "منطقة حيوية في المنامة تشتهر بنشاطها التجاري والسكني وتضم شارع المعارض الشهير.",
+        "description_en": "A vibrant district in Manama known for its commercial and residential activity, including the famous Exhibition Avenue.",
+        "location": {
+            "lat": 26.2350,
+            "lng": 50.5950
+        },
+        "images": []
+    },
+    {
+        "id": 20,
+        "name_ar": "القضيبية",
+        "name_en": "Gudaibiya",
+        "category": "District",
+        "description_ar": "منطقة تاريخية وسكنية في المنامة، تضم قصراً ملكياً والعديد من المباني السكنية المتنوعة.",
+        "description_en": "A historical and residential district in Manama, home to a royal palace and a variety of residential buildings.",
+        "location": {
+            "lat": 26.2250,
+            "lng": 50.5900
+        },
+        "images": []
+    },
+    {
+        "id": 21,
+        "name_ar": "ضاحية السيف",
+        "name_en": "Seef District",
+        "category": "Modern District",
+        "description_ar": "أحدث منطقة تجارية وسياحية في المنامة، تضم العديد من الأبراج المكتبية والمجمعات التجارية الكبرى والفنادق الفاخرة.",
+        "description_en": "The newest commercial and tourist district in Manama, featuring many office towers, major shopping malls, and luxury hotels.",
+        "location": {
+            "lat": 26.2450,
+            "lng": 50.5450
+        },
+        "images": []
+    },
+    {
+        "id": 22,
+        "name_ar": "واديان",
+        "name_en": "Wadyan",
+        "category": "Village",
+        "description_ar": "إحدى قرى جزيرة سترة، وهي مركز سكني وتجاري هام في الجزيرة.",
+        "description_en": "One of the villages on Sitra Island, it is an important residential and commercial center on the island.",
+        "location": {
+            "lat": 26.1550,
+            "lng": 50.6210
+        },
+        "images": []
+    },
+    {
+        "id": 23,
+        "name_ar": "الخارجية",
+        "name_en": "Al Kharijiya",
+        "category": "Village",
+        "description_ar": "من قرى جزيرة سترة، تتميز بهدوئها وطابعها السكني التقليدي.",
+        "description_en": "One of the villages on Sitra Island, characterized by its tranquility and traditional residential character.",
+        "location": {
+            "lat": 26.1580,
+            "lng": 50.6180
+        },
+        "images": []
+    },
+    {
+        "id": 24,
+        "name_ar": "جرداب",
+        "name_en": "Jirdab",
+        "category": "Village",
+        "description_ar": "قرية تقع على أطراف خليج توبلي، تشهد نمواً عمرانياً سريعاً وتتميز بموقعها الهادئ.",
+        "description_en": "A village located on the outskirts of Tubli Bay, experiencing rapid urban growth and characterized by its quiet location.",
+        "location": {
+            "lat": 26.1750,
+            "lng": 50.5650
+        },
+        "images": []
+    },
+    {
+        "id": 25,
+        "name_ar": "النعيم",
+        "name_en": "Noaim",
+        "category": "Historical District",
+        "description_ar": "حي تاريخي في المنامة يشتهر بعراقته وبوجود مركز النعيم الصحي التاريخي.",
+        "description_en": "A historical district in Manama known for its heritage and the historical Noaim Health Center.",
+        "location": {
+            "lat": 26.2320,
+            "lng": 50.5750
+        },
+        "images": []
+    },
+    {
+        "id": 26,
+        "name_ar": "أبو إبهام",
+        "name_en": "Abu Ibham",
+        "category": "Village",
+        "description_ar": "قرية صغيرة وهادئة تقع ضمن محافظة العاصمة، وتتميز بطابعها السكني البسيط.",
+        "description_en": "A small and quiet village located within the Capital Governorate, characterized by its simple residential character.",
+        "location": {
+            "lat": 26.2100,
+            "lng": 50.5400
+        },
+        "images": []
+    },
+    {
+        "id": 27,
+        "name_ar": "البرهامة",
+        "name_en": "Burhama",
+        "category": "Village",
+        "description_ar": "منطقة سكنية تقع بالقرب من السنابس والمنامة، وتعتبر من المناطق الحيوية المتصلة بالعاصمة.",
+        "description_en": "A residential area located near Sanabis and Manama, considered one of the vital areas connected to the capital.",
+        "location": {
+            "lat": 26.2250,
+            "lng": 50.5550
+        },
+        "images": []
+    },
+    {
+        "id": 28,
+        "name_ar": "الديه",
+        "name_en": "Daih",
+        "category": "Village",
+        "description_ar": "قرية ساحلية تقع غرب المنامة، تشتهر بنشاطها المجتمعي وقربها من المناطق التجارية الكبرى.",
+        "description_en": "A coastal village located west of Manama, known for its community activity and proximity to major commercial areas.",
+        "location": {
+            "lat": 26.2350,
+            "lng": 50.5400
+        },
+        "images": []
+    },
+    {
+        "id": 29,
+        "name_ar": "السلمانية",
+        "name_en": "Salmaniya",
+        "category": "District",
+        "description_ar": "منطقة هامة في المنامة، تضم مجمع السلمانية الطبي وجامعة الخليج العربي، وهي مركز صحي وتعليمي رئيسي.",
+        "description_en": "An important area in Manama, home to the Salmaniya Medical Complex and the Arabian Gulf University, serving as a major health and educational hub.",
+        "location": {
+            "lat": 26.2100,
+            "lng": 50.5800
+        },
+        "images": []
+    },
+    {
+        "id": 30,
+        "name_ar": "أم الحصم",
+        "name_en": "Umm Al Hassam",
+        "category": "District",
+        "description_ar": "حي سكني وتجاري يقع جنوب المنامة، يتميز بتنوعه السكاني وموقعه القريب من جسر سترة.",
+        "description_en": "A residential and commercial district located south of Manama, characterized by its diverse population and proximity to the Sitra Bridge.",
+        "location": {
+            "lat": 26.2000,
+            "lng": 50.5900
+        },
+        "images": []
+    },
+    {
+        "id": 31,
+        "name_ar": "رأس الرمان",
+        "name_en": "Ras Rumman",
+        "category": "Historical District",
+        "description_ar": "حي عريق في قلب المنامة، يشتهر بتاريخه الطويل وموقعه القريب من المنطقة الدبلوماسية.",
+        "description_en": "An ancient district in the heart of Manama, known for its long history and proximity to the Diplomatic Area.",
+        "location": {
+            "lat": 26.2380,
+            "lng": 50.5880
+        },
+        "images": []
     }
 ]
